@@ -23,3 +23,21 @@ Requirement analysis:
 ### Types of Requirements
 - Functional Requirements – Describes what the software should do. For example, user authentication, booking system, user registration, property search, etc.
 - Non-functional requirements – Describes how the system should perform. This includes its performance, security, usability, scalability, and reliability.
+
+## Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+Benefits of Use Case Diagrams include:
+
+* Providing a clear visual representation of system functionalities.
+* Helping in identifying and organizing system requirements.
+* Facilitating communication among stakeholders and development team.
+
+## Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+Benefits of Acceptance Criteria include:
+
+* Ensuring all parties have a clear understanding of feature requirements.
+* Providing a basis for testing and validation.
+* Helping in maintaining quality and meeting user expectations.
